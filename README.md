@@ -1,29 +1,48 @@
-# Hi 👋, I'm DavidGC026
+# Hi 👋, I'm David Guzmán (DavidGC026)
 
-### An experienced Javascript developer
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DavidGC026&label=Profile views&color=0e75b6&style=flat" alt="DavidGC026" /> </p>
-
-- 🔭 I'm currently working on **Biblia2, adiciones de versiculos diarios, funciones de grupos para iglesias pequeñas, comunidad, entre otros.**
-
-- 🌱 I'm currently learning **Trabajo mucho con React, javascript, tailwind, .net, Tauri, Kotlin, Nodejs**
-
-- 👯 I'm looking to collaborate on **Aplicaciones para el IMCYC**
-
-- 🤝 I'm looking for help with **Quiero aprender sobre mas dearrollo web, y aplicaciones moviles**
-
-- 💬 Ask me about **React, Nodejs, Tauri**
-
-- 📫 How to reach me **davidguzmanc026@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/DavidGC026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="DavidGC026" height="30" width="40" /></a>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=DavidGC026&label=Profile+views&color=0e75b6&style=glossy" alt="DavidGC026" /> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/canvasjs" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dart" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dart" alt="dart" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/electron" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=electron" alt="electron" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gtk" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gtk" alt="gtk" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kotlin" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/laravel" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matlab" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=matlab" alt="matlab" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+### 🚀 Systems Engineer | Full Stack Developer & Sysadmin
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DavidGC026&show_icons=true&locale=en&layout=compact" alt="DavidGC026" /></p>
+Systems Engineer passionate about building scalable web ecosystems, cross-platform applications, and robust server infrastructure. Balancing modern frontend development with deep dives into server management, self-hosting, and automated environments.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DavidGC026&show_icons=true&locale=en" alt="DavidGC026" /></p>
+---
+
+### 🛠️ What I'm Up To
+- 🔭 **Currently Developing:** A specialized cross-platform community ecosystem for churches (daily verses, group management, and dynamic features).
+- 🏢 **Professional Collaborations:** Building and optimizing core software applications for **IMCYC** (React, technical platforms, and data integration).
+- 🌱 **Learning & Research:** Expanding my expertise in cross-platform mobile ecosystems and advanced Linux automation.
+- 💬 **Ask me about:** React, Node.js, Tauri, TailwindCSS, and infrastructure.
+- 📫 **Reach me at:** davidguzmanc026@gmail.com
+
+---
+
+### 💻 Tech Stack & Tooling
+
+#### 🌐 Frontend & Mobile Development
+[![My Skills](https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,kotlin,androidstudio)](https://skillicons.dev)
+
+#### ⚙️ Backend, Desktop & Frameworks
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,tauri,electron,dotnet,php,laravel,py)](https://skillicons.dev)
+
+#### 🎛️ Infrastructure, Sysadmin & Databases
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,docker,postgres,mysql,mongodb,firebase,postman)](https://skillicons.dev)
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DavidGC026&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="DavidGC026 Top Langs" height="165vh" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DavidGC026&show_icons=true&locale=en&theme=vision-friendly-dark" alt="DavidGC026 Stats" height="165vh" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://github.com/DavidGC026">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub Profile" width="40" height="40"/>
+  </a>
+</p>
